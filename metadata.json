@@ -1,0 +1,6 @@
+{
+  "name": "Smart Stock & AI Procurement Dashboard",
+  "description": "ระบบบริหารจัดการสินค้าคงคลังแบบระบุ Batch รหัสจัดเก็บ พร้อมระบบวิเคราะห์คำนวณการสั่งซื้อด้วย AI และแจ้งเตือนแผนกจัดซื้ออัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
